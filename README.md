@@ -4,7 +4,7 @@ Name : Vaishnavi M
 
 Roll no : 212221240058
 
-Date of experiment : 
+Date of experiment : 15-10-22
 
 ## Interfacing a 16X2 type LCD display to LPC2148 ARM 7 Microcontroller 
 
